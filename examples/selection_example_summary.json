@@ -1,0 +1,59 @@
+{
+  "evaluated": 6,
+  "pass": 6,
+  "clash_excluded": 0,
+  "below_min_hac_excluded": 0,
+  "min_hac": 20,
+  "raw_top20_rejected_as_clash": [],
+  "raw_top20_rejected_count": 0,
+  "best_by_le": [
+    {
+      "ligand_id": "102697",
+      "affinity": -10.503,
+      "le": 0.4201,
+      "min_dist": 3.3,
+      "hac": 25,
+      "alerts": ""
+    },
+    {
+      "ligand_id": "10178705",
+      "affinity": -8.611,
+      "le": 0.2969,
+      "min_dist": 2.86,
+      "hac": 29,
+      "alerts": ""
+    },
+    {
+      "ligand_id": "10156",
+      "affinity": -8.832,
+      "le": 0.2944,
+      "min_dist": 3.22,
+      "hac": 30,
+      "alerts": ""
+    },
+    {
+      "ligand_id": "10026128",
+      "affinity": -9.449,
+      "le": 0.2779,
+      "min_dist": 2.85,
+      "hac": 34,
+      "alerts": ""
+    },
+    {
+      "ligand_id": "10024590",
+      "affinity": -8.181,
+      "le": 0.2727,
+      "min_dist": 2.82,
+      "hac": 30,
+      "alerts": ""
+    },
+    {
+      "ligand_id": "10298385",
+      "affinity": -8.87,
+      "le": 0.2464,
+      "min_dist": 3.17,
+      "hac": 36,
+      "alerts": ""
+    }
+  ]
+}

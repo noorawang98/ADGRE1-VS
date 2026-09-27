@@ -1,0 +1,7 @@
+ligand_id	affinity	le	hac	min_dist	n_clash_atoms	geometry	pass	reason	contact_residues	spread	n_models	alerts	smiles
+102697	-10.503	0.4201	25	3.3	0	ok	True	ok	6	0.0	1		
+10178705	-8.611	0.2969	29	2.86	0	ok	True	ok	6	0.0	1		
+10156	-8.832	0.2944	30	3.22	0	ok	True	ok	5	0.0	1		
+10026128	-9.449	0.2779	34	2.85	0	ok	True	ok	6	0.0	1		
+10024590	-8.181	0.2727	30	2.82	0	ok	True	ok	7	0.0	1		
+10298385	-8.87	0.2464	36	3.17	0	ok	True	ok	4	0.0	1		
